@@ -1,8 +1,8 @@
 # Hi, I'm Somesh! 👋🏿
 
-- 💻 I have completed Software Engineering Internships @ AMD (Advanced Micro Devices), MCAP, Teranet Inc.
-- 🎓 I am studying Computer Engineering @ UofT
-- 🧑‍🏫 I have a passion for teaching and have taught ECE244: Programming Fundamentals as a Teaching Assistant
+- 💻 I have completed Software Engineering Internships @ [AMD (Advanced Micro Devices)](https://www.amd.com/en.html), [MCAP](https://www.mcap.com/), [Teranet Inc.](https://www.teranet.ca/)
+- 🎓 I am studying Computer Engineering @ [UofT](https://www.utoronto.ca/)
+- 🧑‍🏫 I have a passion for teaching and have taught [ECE244: Programming Fundamentals](https://engineering.calendar.utoronto.ca/course/ece244h1) as a Teaching Assistant
 
 
 ## 🛠 Skills
