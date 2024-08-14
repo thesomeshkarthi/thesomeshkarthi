@@ -8,7 +8,7 @@
 ## 🛠 Skills
 - Languages: C/C++, Python, Java, Javascript/Typescript, SQL, Powershell, HTML/CSS, C#
 - Technologies: Pytorch, Pandas, Flask, .NET Core, React, Next.js, Node.js, Express.js
-- Tools: AWS, Azure Devops, Linux OS, Apache Spark, MS SQL Server, Visio, Figma, Confluence, Jira, Git, Colab, Hyper-V, WinDbg
+- Tools: AWS, Azure Devops, Linux OS, Apache Spark, MS SQL Server, Visio, Figma, Confluence, Jira, Github, Hyper-V, WinDbg
 - Certifications: AWS Certified Solutions Architect [Associate], AWS Certified Cloud Practioner, Harvard CS50 Verified
 
 
