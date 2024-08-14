@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Somesh 👋🏿
 
-<!--
-**thesomeshkarthi/thesomeshkarthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I have completed Software Engineering Internships @ AMD (Advanced Micro Devices), MCAP, Teranet Inc.
+- 🎓 I am studying Computer Engineering @ UofT
+- 🧑‍🏫 I have a passion for teaching and have taught ECE244: Programming Fundamentals as a Teaching Assistant
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Languages: C/C++, Python, Java, Javascript/Typescript, SQL, Powershell, HTML/CSS, C#
+- Technologies: Pytorch, Pandas, Flask, .NET Core, React, Next.js, Node.js, Express.js
+- Tools: AWS, Azure Devops, Linux OS, Apache Spark, MS SQL Server, Visio, Figma, Confluence, Jira, Git, Colab, Hyper-V, WinDbg
+- Certifications: AWS Certified Solutions Architect [Associate], AWS Certified Cloud Practioner, Harvard CS50 Verified
+
+
+## 📈 Stats
+
+![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesomeshkarthi)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thesomeshkarthi)](https://git.io/streak-stats)
