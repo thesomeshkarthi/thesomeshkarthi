@@ -1,4 +1,4 @@
-# Hi, I'm Somesh 👋🏿
+# Hi, I'm Somesh! 👋🏿
 
 - 💻 I have completed Software Engineering Internships @ AMD (Advanced Micro Devices), MCAP, Teranet Inc.
 - 🎓 I am studying Computer Engineering @ UofT
