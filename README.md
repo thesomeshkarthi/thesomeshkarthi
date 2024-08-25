@@ -13,6 +13,5 @@
 
 
 ## 📈 Stats
-
-![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesomeshkarthi)
-[![GitHub Streak](https://streak-stats.demolab.com?user=thesomeshkarthi)](https://git.io/streak-stats)
+![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesomeshkarthi&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=thesomeshkarthi&theme=dark)](https://git.io/streak-stats)
