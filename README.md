@@ -10,8 +10,3 @@
 - Technologies: Pytorch, Pandas, Flask, .NET Core, React, Next.js, Node.js, Express.js
 - Tools: AWS, Azure Devops, Linux OS, Apache Spark, MS SQL Server, Visio, Figma, Confluence, Jira, Github, Hyper-V, WinDbg
 - Certifications: AWS Certified Solutions Architect [Associate], AWS Certified Cloud Practioner, Harvard CS50 Verified
-
-
-## 📈 Stats
-![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesomeshkarthi&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=thesomeshkarthi&theme=dark)
